@@ -4,8 +4,13 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
+		<string>4th</string>
+		<string>f</string>
+		<string>forth</string>
+		<string>fr</string>
 		<string>frt</string>
 		<string>fs</string>
+		<string>fth</string>
 	</array>
 	<key>keyEquivalent</key>
 	<string>^~F</string>
