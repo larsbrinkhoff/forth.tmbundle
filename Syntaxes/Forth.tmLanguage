@@ -15,7 +15,7 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>(?i:(?&lt;=^|\s)(TRUE|FALSE|BL|PI|CELL|C/L|R/O|W/O|R/W)(?=\s))</string>
+			<string>(?i:(?&lt;=^|\s)(TRUE|FALSE|BL|PI|CELL|C/L|R/O|W/O|R/W|BIN|FORTH-WORDLIST)(?=\s))</string>
 			<key>name</key>
 			<string>constant.language.forth</string>
 		</dict>
